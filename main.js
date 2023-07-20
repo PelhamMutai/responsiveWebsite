@@ -13,7 +13,7 @@ const slider = new A11YSlider(document.querySelector('.slider'), {
     adaptiveHeight: false,
     dots: true,
     responnsive:{
-        480:{
+        800:{
             dots:false,
         }
     }
